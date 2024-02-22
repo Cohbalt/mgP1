@@ -1,4 +1,4 @@
-## HOW TO USE
+# HOW TO USE
 
 1. Connect a 8x8 Matrix with the following ports:
    1. Columns
